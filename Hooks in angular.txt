@@ -1,0 +1,2 @@
+Hooks allow you to act on a component or directive instance as appropriate as angular creates,update or destroys that instance .
+-->when needed, respond to updates during change detection, and clean up before the deletion of instances.
